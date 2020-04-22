@@ -1,0 +1,7 @@
+F:\CS Unity Project\TCP_Server\TCP_Client\bin\Debug\TCP_Client.exe.config
+F:\CS Unity Project\TCP_Server\TCP_Client\bin\Debug\TCP_Client.exe
+F:\CS Unity Project\TCP_Server\TCP_Client\bin\Debug\TCP_Client.pdb
+F:\CS Unity Project\TCP_Server\TCP_Client\obj\Debug\TCP_Client.csproj.CoreCompileInputs.cache
+F:\CS Unity Project\TCP_Server\TCP_Client\obj\Debug\TCP_Client.exe
+F:\CS Unity Project\TCP_Server\TCP_Client\obj\Debug\TCP_Client.pdb
+F:\CS Unity Project\TCP_Server\TCP_Client\obj\Debug\TCP_Client.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+F:\CS Unity Project\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+F:\CS Unity Project\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+F:\CS Unity Project\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+F:\CS Unity Project\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojAssemblyReference.cache
+F:\CS Unity Project\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+F:\CS Unity Project\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+F:\CS Unity Project\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
